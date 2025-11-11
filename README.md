@@ -18,12 +18,7 @@ GeoFinder is a simple web-based map application that allows users to search for 
 - [Leaflet.js](https://leafletjs.com/) for interactive maps
 - [OpenStreetMap](https://www.openstreetmap.org/) as map tiles
 
-
-
-
-![Uploading Screenshot from 2025-11-11 20-27-04.png…]()
-
-  
+<img width="1914" height="906" alt="Screenshot from 2025-11-11 20-27-04" src="https://github.com/user-attachments/assets/6e2f097d-f919-4e61-a040-423232df115f" />
 
 ## Usage
 
